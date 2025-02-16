@@ -1,0 +1,10 @@
+pydantic==1.10.13
+typing
+pandas
+openai
+langchain
+argparse
+nltk
+dotenv
+python-dotenv
+pypdf

@@ -6,10 +6,10 @@ A Python-based CLI tool designed for processing document directories using OpenA
 
 ## Features
 
-* 📂 Processes all documents in a given dataset directory
-* 🛠 Supports GPT‑3.5 and GPT‑4 (use `--gpt4` for better results)
-* 📝 Outputs structured data (e.g., CSV) for downstream analysis
-* 🧠 Includes modular components for RAG, text comparison, and processing
+* Processes all documents in a given dataset directory
+* Supports GPT‑3.5 and GPT‑4 (use `--gpt4` for better results)
+* Outputs structured data (e.g., CSV) for downstream analysis
+* Includes modular components for RAG, text comparison, and processing
 
 ---
 
